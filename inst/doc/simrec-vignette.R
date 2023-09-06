@@ -191,3 +191,6 @@ DT::datatable(simdataint)
 simrecPlot(simdata)
 simreccompPlot(simdata1)
 
+## ----sessioninfo------------------------------------------------------------------------
+sessionInfo()
+
